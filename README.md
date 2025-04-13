@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alpamisdev
 - 👀 I’m interested in Backend
-- 🌱 I’m currently learning PHP, Laravel
+- 🌱 I’m currently learning Python. Also I am working as a PM
 - 📫 How to reach me in Instagram alpamis_hr
 
 <!---
